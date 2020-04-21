@@ -25,3 +25,11 @@ https://dzone.com/articles/50-useful-kubernetes-tools (tecnologías asociadas)
 ### Instalación de Docker en Virtual Box
 
 
+https://github.com/MoJo2600/pihole-kubernetes/tree/master/docs
+
+https://helm.sh/
+
+https://medium.com/@subtlepseudonym/pi-hole-on-kubernetes-87fc8cdeeb2e
+
+https://rancher.com/why-rancher/
+
